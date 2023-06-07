@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rihha
-- 👀 I’m interested in computer programming
+- 👀 I specialize in web development
 - 🌱 I’m currently learning c programming language
 - ## Authors
 
